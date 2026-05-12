@@ -1,0 +1,2 @@
+fastmcp
+boto3
