@@ -2,7 +2,7 @@
 
 An MCP (Model Context Protocol) server that lets any AI agent — Claude, Amazon Q, Kiro IDE, Cursor — analyze AWS WAF logs, detect attacks, and generate interactive HTML reports, all through natural language.
 
-> 📖 **Article:** [aws-waf-logs MCP Server: Analyze Your WAF Logs with AI](./article-builder-center-en.html) — Published on AWS Builder Center
+> 📖 **Article:** [aws-waf-logs MCP Server: Analyze Your WAF Logs with Artificial Intelligence](https://builder.aws.com/content/3DbKhkITGwveGKoBSgEcD1yaDhb/aws-waf-logs-mcp-server-analyze-your-waf-logs-with-artificial-intelligence) — Published on AWS Builder Center
 
 ---
 
